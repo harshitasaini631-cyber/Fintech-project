@@ -264,14 +264,14 @@ body {
 
 /* IMAGE */
 .analytics-image img {
-    width: 420px;               /* adjust size as needed */
+    width: 420px;              
     border-radius: 20px;
     box-shadow: 0 15px 35px rgba(0,0,0,0.06);
 }
 
-/* TEXT SIDE */
+
 .analytics-text h2 {
-    font-size: 18px;            /* not too big */
+    font-size: 18px;            
     font-weight: 700;
     color: white;
     margin-bottom: 15px;
@@ -292,7 +292,7 @@ body {
 
 .pricing h2 {
     font-size: 26px;
-    color: #1f43d7;
+    color: white;
     margin-bottom: 40px;
 }
 
@@ -313,12 +313,12 @@ body {
     box-shadow: 0 10px 25px rgba(0,0,0,0.05);
 }
 
-/* Hover effect: white → light gray */
+
 .card:hover {
-    background: #f3f4f7;  /* soft light gray */
+    background: #f3f4f7;  
 }
 
-/* Text inside card */
+
 .card h3 {
     margin-bottom: 10px;
     font-size: 18px;
@@ -361,12 +361,12 @@ body {
 .testimonials {
     text-align: center;
     padding: 60px 20px;
-    background: #e8eef6;   /* light blue background like your screenshot */
+    background: #3E1093;
 }
 
 .testimonials h2 {
     font-size: 26px;
-    color: #1f43d7;
+    color: white;
     margin-bottom: 40px;
 }
 
@@ -401,7 +401,7 @@ body {
 .t-card p {
     font-size: 14px;
     color: #5c6a80;
-    height: 70px;  /* keeps all cards equal height */
+    height: 70px;  
     margin-bottom: 15px;
 }
 
@@ -425,12 +425,12 @@ body {
 .articles {
     text-align: center;
     padding: 60px 20px;
-    background: #f7f8fa; 
+    background: #4811A7; 
 }
 
 .articles h2 {
     font-size: 26px;
-    color: #1f43d7;
+    color: white;
     margin-bottom: 40px;
 }
 
@@ -483,7 +483,7 @@ body {
 .article-card a {
     display: inline-block;
     margin: 0 15px;
-    color: #1f43d7;
+    color: white;
     font-weight: 600;
     font-size: 14px;
     text-decoration: none;
@@ -509,7 +509,7 @@ body {
 .faq h2 {
     text-align: center;
     font-size: 30px;
-    color: #1f43d7;
+    color: white;
     margin-bottom: 40px;
 }
 
@@ -520,32 +520,32 @@ body {
     padding: 18px 8px;
     border-bottom: 1px solid #dcdfe6;
     font-size: 18px;
-    color: #183065;
+    color: white;
     cursor: pointer;
 }
 
 .plus {
     font-size: 22px;
-    color: #1f43d7;
+    color: white;
     font-weight: bold;
 }
 
 /*  */
 .cta-section {
-    background: #1f4bd8;              /* blue background */
+    background: #1f4bd8;              
     text-align: center;
     padding: 60px 20px;
     color: white;
     font-family: system-ui, Arial, sans-serif;
 }
 
-/* Top subtitle */
+
 .cta-section h3 {
     font-size: 22px;
     margin-bottom: 25px;
 }
 
-/* Email box + button */
+
 .email-box {
     margin-bottom: 60px;
 }
